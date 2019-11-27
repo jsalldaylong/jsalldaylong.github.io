@@ -1,7 +1,8 @@
 'use strict';
 
 window.renderStatistics = function(ctx) {
-	ctx.fillRect(0, 0, 100, 10);
+	ctx.fillRect(100, 10, 100, 10);
+	ctx.fillStyle = '#fff';
 
 
 };
